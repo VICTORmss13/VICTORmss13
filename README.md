@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Victor Mendes.
-- 👀 I’m interested in Technology, Games, Movies, TV Shows and other Tech subjects.
+- 👀 I’m interested in Technology, Games, Movies, TV Shows, Tattoos and other stuff.
 - 🌱 I’m a QA Analyst who enjoys test automation and programming (software development in general).
 - 💞️ I have a Diploma in IT Management.
 - 💞️ I'm studying for a Bachelor's in Software Engineering.
